@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #1e1e2f;
-  color: #e0e0e0;
+  background-color: #ffffff;
+  color: black;
   padding: 40px;
   max-width: 900px;
   margin: auto;
@@ -11,7 +11,7 @@ img {
   width: 150px;
 }
 h1 {
-  color: white;
+  color: black;
 }
 a {
   color: #4eaaff;
@@ -22,14 +22,14 @@ a:hover {
 }
 
 header {
-  background-color: #332D56;
-  color: #fff;
+  background-color: #D9DAEA;
+  color: black;
   padding: 1em;
   text-align: center;
 }
 
 nav a {
-  color: #fff;
+  color: black;
   margin: 0 1em;
   text-decoration: none;
 }
@@ -39,14 +39,14 @@ section {
 }
 
 .project {
-  border: 1px solid #ccc;
+  border: 1px solid #9697A2;
   padding: 1em;
   margin-bottom: 1em;
 }
 
 footer {
-  background-color: #332D56;
-  color: #fff;
+  background-color: #D9DAEA;
+  color: black;
   text-align: center;
   padding: 1em;
 }
