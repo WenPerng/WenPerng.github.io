@@ -1,77 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Wen Perng's Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1e1e2f;
-            color: #e0e0e0;
-            padding: 40px;
-            max-width: 900px;
-            margin: auto;
-        }
-        img {
-            border-radius: 8px;
-            width: 150px;
-        }
-        h1 {
-            color: white;
-        }
-        a {
-            color: #4eaaff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        section {
-            margin-top: 30px;
-        }
-        .contact-info {
-            margin-top: 20px;
-        }
-        footer {
-            margin-top: 40px;
-            font-size: 0.9em;
-            color: #888;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
-    <h1>Wen Perng 彭琝's Website <span style="font-weight: lighter; font-size: 14px;">National Taiwan University</span></h1>
-    <section>
-        <p>
-            I'm currently a fourth year student studying electrical engineering in National Taiwan University.
-        </p>
-    </section>
+  <header>
+    <h1>Wen Perng's Website</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
 
-    <section>
-        <h2>Research</h2>
-        <p>
-            I am interested in ...
-        </p>
-    </section>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm currently a fourth year student studying electrical engineering in National Taiwan University.</p>
+  </section>
 
-    <section>
-        <h2>Projects and Notes</h2>
-        <ul>
-            <li><a href='https://github.com/WenPerng/EESAAD_slides'>NTUEESAAD Theoretical Lecture Talks 電機系學術部理論部課</a></li>
-            <li><a href="https://github.com/WenPerng/Lecture-Notes/blob/8cff5a0b8202e7ee0b6b8c0adf193b38578930c5/MCTT_lecture_note.pdf">113-2 Modern Coding Theory and Technology</a></li>
-        </ul>
-    </section>
+  <section id="skills">
+    <h2>Research</h2>
+    <ul>
+      <li>Skill One</li>
+      <li>Skill Two</li>
+      <li>Skill Three</li>
+    </ul>
+  </section>
 
-    <section class="contact-info">
-        <h2>Contact</h2>
-        <ul>
-            <li>Email: b10901042@ntu.edu.tw</li>
-        </ul>
-    </section>
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>NTUEESAAD Theoretical Lecture Talks</h3>
+      <p>Short three hour talks on topics extended from undergraduate electrical engineering studies. The talks are given in an intuitive manner, focusing on giving the mathematical intuition and engineering enlightenments.</p>
+      <a href="https://github.com/WenPerng/EESAAD_slides">View on GitHub</a>
+    </div>
+    <div class="project">
+      <h3>113-2 Modern Coding Theory and Technology</h3>
+      <p>Lecture notes for the course "Modern Coding Theory and Technology" given in the spring of 2025 by prof. Hsin-Po Wang.</p>
+      <a href="https://github.com/WenPerng/Lecture-Notes/blob/8cff5a0b8202e7ee0b6b8c0adf193b38578930c5/MCTT_lecture_note.pdf">View on GitHub</a>
+    </div>
+    <!-- Add more projects as needed -->
+  </section>
 
-    <footer>
-        © 2025. All rights reserved.
-    </footer>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: b10901042@ntu.edu.tw</p>
+    <p>YouTube: <a href="https://youtube.com/@wenperng6526?si=aQfF5YAgU4pus5qT">channel</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Wen Perng</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
