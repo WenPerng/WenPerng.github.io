@@ -22,7 +22,7 @@ repository               : "WenPerng/WenPerng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wen Perng"
   pronouns         : # example: "she/her"  
   bio              : "Optimization and information theory lover at National Taiwan University."
@@ -75,7 +75,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "Wen Perng"
+  youtube          : "wenperng6526"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
