@@ -1,7 +1,7 @@
 ---
 title: "Notes on Modern Coding Theory and Technology"
 collection: projects
-type: "Note"
+category: notes
 permalink: /projects/2025-06-MCTT-note
 #venue: "UC San Francisco, Department of Testing"
 date: 2025-06-06
