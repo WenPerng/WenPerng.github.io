@@ -18,7 +18,7 @@ This is a collaborative work with three other student.
 
 My contribution to this work is establishing the inverse kinematics of the robot arm via conformal geometric algebra.
 
-<iframe src="https://wei-hsuan-cheng.github.io/project/2023-12-kendo-robot" width="100%" height="600px" frameborder="0" title="Kendo Robot"></iframe>
+<iframe src="https://wei-hsuan-cheng.github.io/project/2023-12-kendo-robot" width="100%" height="600px" title="Kendo Robot"></iframe>
 
 <p>
 Full description on <a href="https://wei-hsuan-cheng.github.io/project/2023-12-kendo-robot">Wei-Hsuan Chen's website</a>.
