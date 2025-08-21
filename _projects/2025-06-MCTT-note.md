@@ -3,7 +3,7 @@ title: "Notes on Modern Coding Theory and Technology"
 collection: projects
 category: notes
 permalink: /projects/2025-06-MCTT-note
-#venue: "UC San Francisco, Department of Testing"
+venue: "Department of Electrical Engineering"
 date: 2025-06-06
 location: "National Taiwan University"
 ---
