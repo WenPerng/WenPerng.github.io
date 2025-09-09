@@ -11,5 +11,6 @@ excerpt: "Lecture notes for the course \"Modern Coding Theory and Technology\" g
 
 [LaTex Code and PDF](https://github.com/WenPerng/MCTT_Lecture_Note)
 
-This is the lecture notes for the course "Modern Coding Theory and Technology" given in the spring of 2025 by prof. Hsin-Po Wang at National Taiwan University.
+This is my lecture notes for the course "Modern Coding Theory and Technology" given in the spring of 2025 by prof. Hsin-Po Wang at National Taiwan University.
 
+# Course description
