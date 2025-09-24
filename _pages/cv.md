@@ -17,8 +17,8 @@ Work experience
 ======
 * Summer 2025: Research Assistant
   * Adaptive Systems Lab, École Polytechnique Fédérale de Lausanne
-  * Duties included: Tagging issues
-  * Supervisor: Haoyuan Cai (PhD), Vladyslav Shashkov (PhD) and Professor Ali H. Sayd
+  * Research topic: multi-team network games
+  * Supervisor: Haoyuan Cai (PhD), Vladyslav Shashkov (PhD) and Professor Ali H. Sayed
   
 Skills
 ======
