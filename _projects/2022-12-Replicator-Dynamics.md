@@ -2,9 +2,9 @@
 title: "Fourier Optics: Derivations and Applications"
 collection: projects
 category: school
-permalink: /projects/2022-06-Fourier-Optics
+permalink: /projects/2022-12-Replicator-Dynaimcs
 # venue: "Department of Electrical Engineering"
-date: 2022-06-03
+date: 2022-12-25
 # location: "National Taiwan University"
 excerpt: "This project focusses on giving an intuitive but rigorous derivation of Fourier optics, including many of the complicated integrals related to Hankel transform, and we also dicussed a couple of its applications. *Final project for the course \"Fundamentals of Electro-Optics\" given in the spring of 2022 by Prof. [Lon A. Wang](https://ieeexplore.ieee.org/author/37336939900).*"
 ---
@@ -16,7 +16,7 @@ As a freshman student who have taken calculus and a bit of complex analysis duri
 This project serves to elucidate the missing mathematical details regarding Fourier optics and its applications that were omitted in the lecture.
 
 <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/KM2mPRUFJo8?si=Yl-JtAwOinR24lIT" 
+        src="https://youtu.be/KM2mPRUFJo8?si=wW6OMKBtxxEO-nAj" 
         frameborder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
