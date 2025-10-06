@@ -38,5 +38,5 @@ The project produces both a video (see above) and a PDF report (see below).
 - **Yi-Hua Lin** (B10901065)
 
 # Project Report
-Download the [project report](/files/pdfs/projects/Fundamentals_of_Electro-Optics_Fourier_Optics.pdf).
-<embed src="/files/pdfs/projects/Fundamentals_of_Electro-Optics_Fourier_Optics.pdf" type="application/pdf" width="100%" height="600px" />
+Download the [project report](/files/pdfs/projects/2022_Fourier_Optics.pdf).
+<embed src="/files/pdfs/projects/2022_Fourier_Optics.pdf" type="application/pdf" width="100%" height="600px" />
