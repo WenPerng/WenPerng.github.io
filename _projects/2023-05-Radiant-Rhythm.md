@@ -2,7 +2,7 @@
 title: "Radiant Rhythm - Illumination on a Chaotic Pendulum"
 collection: projects
 category: school
-permalink: /projects/2022-12-Replicator-Dynamics
+permalink: /projects/2023-05-Radiant-Rhythm
 # venue: "Department of Electrical Engineering"
 date: 2023-05-31
 # location: "National Taiwan University"
