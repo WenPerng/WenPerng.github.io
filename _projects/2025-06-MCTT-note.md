@@ -6,11 +6,11 @@ permalink: /projects/2025-06-MCTT-note
 # venue: "Department of Electrical Engineering"
 date: 2025-06-06
 # location: "National Taiwan University"
-excerpt: "Lecture notes for the course \"Modern Coding Theory and Technology\" given in the spring of 2025 by prof. Hsin-Po Wang."
+excerpt: "Lecture notes for the course \"Modern Coding Theory and Technology\" given in the spring of 2025 by Prof. [Hsin-Po Wang](https://www.symbol.codes/)."
 ---
 
-[LaTex Code and PDF](https://github.com/WenPerng/MCTT_Lecture_Note)
+[LaTex Code](https://github.com/WenPerng/MCTT_Lecture_Note)
 
-This is my lecture notes for the course "Modern Coding Theory and Technology" given in the spring of 2025 by prof. Hsin-Po Wang at National Taiwan University.
+This is my lecture notes for the course "*Modern Coding Theory and Technology*" given in the spring of 2025 by Prof. [Hsin-Po Wang](https://www.symbol.codes/) at National Taiwan University.
 
 # Course description
