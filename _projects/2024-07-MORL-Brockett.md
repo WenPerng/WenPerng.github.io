@@ -4,7 +4,7 @@ collection: projects
 category: notes
 permalink: /projects/2024-07-MORL-Brockett
 date: 2024-07-03
-excerpt: "My exploration into the numerics of applying Newton's method on the Brockett function over \\(\mathrm{O}(m)\\)."
+excerpt: "My exploration into the numerics of applying Newton's method on the Brockett function."
 ---
 
 During the course \"Manifold Optimisation for Representation Learning\" given in the summer of 2024 by Prof. [Hao Shen](https://scholar.google.com/citations?user=Kce9W-8AAAAJ&hl=en) and [Julian Wörmann](https://scholar.google.com/citations?hl=de&user=aqG8AJcAAAAJ&view_op=list_works&sortby=pubdate) at TUM, I was especially interested in the numerics of the optimization of the Brockett function
