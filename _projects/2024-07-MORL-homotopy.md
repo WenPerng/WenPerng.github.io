@@ -3,9 +3,7 @@ title: "Paper Review: Optimisation Geometry"
 collection: projects
 category: school
 permalink: /projects/2024-07-MORL-homotopy
-# venue: "Department of Electrical Engineering"
 date: 2024-07-15
-# location: "National Taiwan University"
 excerpt: "Review of the paper \"[Optimisation Geometry](https://arxiv.org/pdf/1212.1775)\" by Jonathan H. Manton. *Final presentation for the course \"Manifold Optimisation for Representation Learning\" given in the summer of 2024 by Prof. [Hao Shen](https://scholar.google.com/citations?user=Kce9W-8AAAAJ&hl=en) and [Julian Wörmann](https://scholar.google.com/citations?hl=de&user=aqG8AJcAAAAJ&view_op=list_works&sortby=pubdate).*"
 ---
 

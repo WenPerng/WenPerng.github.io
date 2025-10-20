@@ -3,7 +3,7 @@ title: "Newton's Method on Brockett Function"
 collection: projects
 category: notes
 permalink: /projects/2024-07-MORL-Brockett
-date: 2023-07-03
+date: 2024-07-03
 excerpt: "My exploration into the numerics of applying Newton's method on the Brockett function over \\(\mathrm{O}(m)\\)."
 ---
 
