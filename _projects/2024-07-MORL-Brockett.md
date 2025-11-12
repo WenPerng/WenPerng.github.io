@@ -25,6 +25,7 @@ In finding the Riemannian Newton's step, one is required to obtain the Riemannia
 - using matrix pseudo-inverse, proposed by the two lecturers.
 I gave a small talk on the derivation and code implementation of the Newton's method during the class.
 
+# Code
 The MATLAB code realization of the methods proposed in the note below can be found [here](https://github.com/WenPerng/Matrix-Manifold-Optimization/blob/2403ea8817ef1a797c1d728e0bd3807bd8fa625c/newtonLike.m).
 
 # Note
