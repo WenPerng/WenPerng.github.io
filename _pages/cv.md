@@ -9,7 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Download my CV [here](/files/pdfs/CV/CV_20251215.pdf). (Last updated: 2025/12/05)
+
+<embed src="/files/pdfs/CV/CV_20251215.pdf" type="application/pdf" width="100%" height="600px" />
+
+
+<!-- Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2025 (expected)
 
@@ -32,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
