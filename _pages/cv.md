@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here](/files/pdfs/CV/CV_20251215.pdf). (Last updated: 2025/12/15)
+Download my CV [here](/files/pdfs/CV/CV_20260530.pdf). (Last updated: 2026/05/30)
 
-<embed src="/files/pdfs/CV/CV_20251215.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/files/pdfs/CV/CV_20260530.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 <!-- Education
